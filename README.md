@@ -1,6 +1,6 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
-##vC
+## C
 
 ### Group project
 
@@ -64,41 +64,41 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Copyright - Plagiarism
 
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+- You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 
-You are not allowed to publish any content of this project.
+- You are not allowed to publish any content of this project.
 
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
+- Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 ## Requirements
 
 ### General
 
-Allowed editors: vi, vim, emacs
+- Allowed editors: vi, vim, emacs
 
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c89
+- All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c89
 
-All your files should end with a new line
+- All your files should end with a new line
 
-A README.md file, at the root of the folder of the project is mandatory
+- A `README.md` file, at the root of the folder of the project is mandatory
 
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+- Your code should use the `Betty style`. It will be checked using `betty-style.pl` and `betty-doc.pl`
 
-You allowed to use a maximum of one global variable
+- You allowed to use a maximum of one global variable
 
-No more than 5 functions per file
+- No more than 5 functions per file
 
-You are allowed to use the C standard library
+- You are allowed to use the C standard library
 
-The prototypes of all your functions should be included in your header file called monty.h
+- The prototypes of all your functions should be included in your header file called `monty.h`
 
-Don’t forget to push your header file
+- Don’t forget to push your header file
 
-All your header files should be include guarded
+- All your header files should be include guarded
 
-You are expected to do the tasks in the order shown in the project
+- You are expected to do the tasks in the order shown in the project
 
 ### GitHub
 
@@ -108,7 +108,7 @@ There should be one project repository per group. If you clone/fork/whatever a p
 
 ### More Info
 
-** Data structures **
+**Data structures**
 
 Please use the following data structures for this project. Don’t forget to include them in your header file.
 
