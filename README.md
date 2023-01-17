@@ -1,10 +1,10 @@
-0x19. C - Stacks, Queues - LIFO, FIFO
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 
-C
+##vC
 
-Group project
+### Group project
 
-Algorithm
+### Algorithm
 
 Data structure
 
@@ -12,57 +12,57 @@ Data structure
 
  Weight: 2
 
- Project to be done in teams of 2 people (your team: Susan Ng'an'ga, John Makau)
+ - Project to be done in teams of 2 people (your team: Susan Ng'an'ga, John Makau)
 
- Project will start Jan 17, 2023 6:00 AM, must end by Jan 20, 2023 6:00 AM
+ - Project will start Jan 17, 2023 6:00 AM, must end by Jan 20, 2023 6:00 AM
 
- will be released at Jan 18, 2023 12:00 AM
+ - will be released at Jan 18, 2023 12:00 AM
 
- An auto review will be launched at the deadline
-
-
+ - An auto review will be launched at the deadline
 
 
 
 
 
-Resources
+
+
+# Resources
 
 Read or watch:
 
 
 
-Google
+## Google
 
 How do I use extern to share variables between source files in C?
 
-Stacks and Queues in C
+- Stacks and Queues in C
 
-Stack operations
+- Stack operations
 
-Queue operations
+- Queue operations
 
-Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 
 
-General
+## General
 
-What do LIFO and FIFO mean
+- What do LIFO and FIFO mean
 
-What is a stack, and when to use it
+- What is a stack, and when to use it
 
-What is a queue, and when to use it
+- What is a queue, and when to use it
 
-What are the common implementations of stacks and queues
+- What are the common implementations of stacks and queues
 
-What are the most common use cases of stacks and queues
+- What are the most common use cases of stacks and queues
 
-What is the proper way to use global variables
+- What is the proper way to use global variables
 
-Copyright - Plagiarism
+## Copyright - Plagiarism
 
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 
@@ -72,9 +72,9 @@ You are not allowed to publish any content of this project.
 
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-Requirements
+## Requirements
 
-General
+### General
 
 Allowed editors: vi, vim, emacs
 
@@ -100,15 +100,15 @@ All your header files should be include guarded
 
 You are expected to do the tasks in the order shown in the project
 
-GitHub
+### GitHub
 
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
 
 
-More Info
+### More Info
 
-Data structures
+** Data structures **
 
 Please use the following data structures for this project. Don’t forget to include them in your header file.
 
@@ -188,7 +188,7 @@ We strongly encourage you to work all together on a set of tests
 
 
 
-The Monty language
+## The Monty language
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
@@ -262,7 +262,7 @@ pall This is the end of our program. Monty is awesomels
 
 julien@ubuntu:~/monty$
 
-The monty program
+### The monty program
 
 
 
